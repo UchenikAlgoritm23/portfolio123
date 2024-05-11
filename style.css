@@ -1,0 +1,37 @@
+
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+  background-color:green;  
+  color:aqua;
+}
+
+nav {
+  background-color: aqua;
+  color:green;
+}
+
+header {
+  background-color: aqua;
+}
+
+div {
+  color: blue;
+  border:30px;
+}
+
+footer {
+  color:black;
+  background-color: aqua;
+  border:30px;
+}
+
+
+
+
+
+
+
